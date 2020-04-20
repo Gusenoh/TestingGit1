@@ -1,8 +1,8 @@
 # TestingGit1
 For testing first git programme
-# mavensteps
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
 Reminders for setting up a maven project
-# myMaven
 Steps to run a maven project in itellij ide
 select a new project 
 Then select maven
@@ -86,3 +86,6 @@ WebDriver driver;
 }
 
 
+=======
+just making a slight change 
+>>>>>>> 17f35957eeb0c1eef2336933a9aef221e0bd007e
